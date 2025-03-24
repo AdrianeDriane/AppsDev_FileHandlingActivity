@@ -1,0 +1,14 @@
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\bin\Debug\net9.0\FileWriter.exe
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\bin\Debug\net9.0\FileWriter.deps.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\bin\Debug\net9.0\FileWriter.runtimeconfig.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\bin\Debug\net9.0\FileWriter.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\bin\Debug\net9.0\FileWriter.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.AssemblyInfoInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.AssemblyInfo.cs
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.csproj.CoreCompileInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\refint\FileWriter.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\FileWriter.genruntimeconfig.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileWriter\FileWriter\obj\Debug\net9.0\ref\FileWriter.dll

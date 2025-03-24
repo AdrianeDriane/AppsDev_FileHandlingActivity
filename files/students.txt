@@ -1,0 +1,9 @@
+Adriane,50
+John,60
+Karylle,70
+Jhyn,40
+CJ,70
+John,100
+Adriane,60
+Adriane,100
+Haha,20

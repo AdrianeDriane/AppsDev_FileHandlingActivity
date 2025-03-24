@@ -1,0 +1,14 @@
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\bin\Debug\net9.0\LogMessage.exe
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\bin\Debug\net9.0\LogMessage.deps.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\bin\Debug\net9.0\LogMessage.runtimeconfig.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\bin\Debug\net9.0\LogMessage.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\bin\Debug\net9.0\LogMessage.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.AssemblyInfoInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.AssemblyInfo.cs
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.csproj.CoreCompileInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\refint\LogMessage.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\LogMessage.genruntimeconfig.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\LogMessage\LogMessage\obj\Debug\net9.0\ref\LogMessage.dll

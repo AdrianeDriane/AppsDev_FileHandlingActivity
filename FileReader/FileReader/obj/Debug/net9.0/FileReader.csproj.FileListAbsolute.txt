@@ -1,0 +1,14 @@
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\bin\Debug\net9.0\FileReader.exe
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\bin\Debug\net9.0\FileReader.deps.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\bin\Debug\net9.0\FileReader.runtimeconfig.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\bin\Debug\net9.0\FileReader.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\bin\Debug\net9.0\FileReader.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.AssemblyInfo.cs
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\refint\FileReader.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\FileReader.genruntimeconfig.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\FileReader\FileReader\obj\Debug\net9.0\ref\FileReader.dll
