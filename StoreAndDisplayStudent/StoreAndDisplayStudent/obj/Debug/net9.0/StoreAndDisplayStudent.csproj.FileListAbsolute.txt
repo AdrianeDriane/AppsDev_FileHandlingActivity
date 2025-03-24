@@ -1,0 +1,14 @@
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\bin\Debug\net9.0\StoreAndDisplayStudent.exe
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\bin\Debug\net9.0\StoreAndDisplayStudent.deps.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\bin\Debug\net9.0\StoreAndDisplayStudent.runtimeconfig.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\bin\Debug\net9.0\StoreAndDisplayStudent.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\bin\Debug\net9.0\StoreAndDisplayStudent.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.AssemblyInfoInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.AssemblyInfo.cs
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.csproj.CoreCompileInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\refint\StoreAndDisplayStudent.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\StoreAndDisplayStudent.genruntimeconfig.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\StoreAndDisplayStudent\StoreAndDisplayStudent\obj\Debug\net9.0\ref\StoreAndDisplayStudent.dll

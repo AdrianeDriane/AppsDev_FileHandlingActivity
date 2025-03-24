@@ -1,0 +1,14 @@
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\bin\Debug\net9.0\WriteReadBinaryFiles.exe
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\bin\Debug\net9.0\WriteReadBinaryFiles.deps.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\bin\Debug\net9.0\WriteReadBinaryFiles.runtimeconfig.json
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\bin\Debug\net9.0\WriteReadBinaryFiles.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\bin\Debug\net9.0\WriteReadBinaryFiles.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.AssemblyInfoInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.AssemblyInfo.cs
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.csproj.CoreCompileInputs.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\refint\WriteReadBinaryFiles.dll
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.pdb
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\WriteReadBinaryFiles.genruntimeconfig.cache
+C:\Users\Adriane Dilao\ProgrammingProjects\C#\FileHandlingActivity\WriteReadBinaryFiles\WriteReadBinaryFiles\obj\Debug\net9.0\ref\WriteReadBinaryFiles.dll
